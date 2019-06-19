@@ -47,15 +47,15 @@ class RandomQuote extends Component {
             <h1 className='title'>Random Simpsons Quote</h1>
 
             <div id='quote-box'>
-               <img className= 'quoteimg' src={image} alt='simpsons random picture image'/>
+               <img className='quoteimg' src={image} alt='random simpsons character'/>
                <div id='text'><p>"{quote}"</p></div>
                <div id='text'><h5>- {character}</h5></div>
 
                <div id='buttons'>
                <button className= 'newQuoteButton buttons' onClick={this.getNewQuote}>New Quote</button>
                </div>
-
             </div>
+            
          </div>
       )
    }
