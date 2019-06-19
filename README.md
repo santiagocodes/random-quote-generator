@@ -1,3 +1,5 @@
+[![WCS-Random-Quote-Machine.png](https://i.postimg.cc/7ZL00n2f/WCS-Random-Quote-Machine.png)](https://postimg.cc/2VP1fvTD)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
