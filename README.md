@@ -4,7 +4,7 @@ This page randomly selects quotes (with its preselected image) from an API.
 
 ## Want to get your random quote?
 
-Go to: [simpsonsquotes.netlify.com](simpsonsquotes.netlify.com)
+Go to: [https://simpsonsquotes.netlify.com/](simpsonsquotes.netlify.com)
 
 ## Screenshot of the page
 [![WCS-Random-Quote-Machine.png](https://i.postimg.cc/7ZL00n2f/WCS-Random-Quote-Machine.png)](https://postimg.cc/2VP1fvTD)
